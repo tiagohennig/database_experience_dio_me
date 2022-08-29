@@ -1,1 +1,3 @@
-# database_experience_dio_me
+# Desafio de Projeto sobre Git/Github
+
+Repositório criado para o Desafio do Projeto
